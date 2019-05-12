@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Smart Circuit Breaker</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="led1_text">Led 1</string>
+    <string name="led2_text">Led 2</string>
+    <string name="led2_bt_text">Led 2</string>
+    <string name="bathroom_d1name">Device 1</string>
+
+    <string name="Month_prompt">Choose a Month</string>
+    <string-array name="Months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+
+</resources>
